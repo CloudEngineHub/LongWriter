@@ -5,7 +5,10 @@
 # LongWriter: Unleashing 10,000+ Word Generation From Long Context LLMs
 
 <p align="center">
-    🤗 <a href="https://huggingface.co/datasets/THUDM/LongWriter-6k" target="_blank">HF Repo</a> • 📃 <a href="https://arxiv.org/abs/2408.07055" target="_blank">Paper</a> • 🚀 <a href="https://huggingface.co/spaces/THUDM/LongWriter" target="_blank">HF Space</a>
+    🤗 <a href="https://huggingface.co/datasets/THUDM/LongWriter-6k" target="_blank">LongWriter</a> • 📃 <a href="https://arxiv.org/abs/2408.07055" target="_blank">LongWriter Paper</a>
+</p>
+<p align="center">
+    🤗 <a href="https://huggingface.co/THU-KEG/LongWriter-Zero-32B" target="_blank">LongWriter-Zero</a> • 📜 <a href="https://arxiv.org/abs/2408.07055" target="_blank">LongWriter-Zero Paper</a>
 </p>
 
 [English](./README.md) | [中文](./README_zh.md) | [日本語](./README_jp.md)
