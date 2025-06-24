@@ -8,7 +8,7 @@
     🤗 <a href="https://huggingface.co/datasets/THUDM/LongWriter-6k" target="_blank">LongWriter</a> • 📃 <a href="https://arxiv.org/abs/2408.07055" target="_blank">LongWriter Paper</a>
 </p>
 <p align="center">
-    🤗 <a href="https://huggingface.co/THU-KEG/LongWriter-Zero-32B" target="_blank">LongWriter-Zero</a> • 📜 <a href="https://arxiv.org/abs/2408.07055" target="_blank">LongWriter-Zero Paper</a>
+    🤗 <a href="https://huggingface.co/THU-KEG/LongWriter-Zero-32B" target="_blank">LongWriter-Zero</a> • 📜 <a href="https://arxiv.org/abs/2506.18841" target="_blank">LongWriter-Zero Paper</a>
 </p>
 
 [English](./README.md) | [中文](./README_zh.md) | [日本語](./README_jp.md)
@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/c7eedeca-98ed-43ec-8619-25137987bcde
 Left: LongWriter-glm4-9b; Right: GLM-4-9B-chat
 
 ## 🔥 Updates
-**[2025/06/23]** Introducing [**LongWriter-Zero**](https://huggingface.co/THU-KEG/LongWriter-Zero-32B), trained with pure RL for ultra-long text generation—no synthetic or annotated data required. It beats LongWriter by a large margin, and even 100B+ models such as DeepSeek-R1, Qwen3 on long-form writing tasks!
+**[2025/06/23]** Introducing [**LongWriter-Zero**](https://huggingface.co/THU-KEG/LongWriter-Zero-32B), trained with pure RL for ultra-long text generation—no synthetic or annotated data required. It beats LongWriter by a large margin, and even 100B+ models such as DeepSeek-R1, Qwen3 on long-form writing tasks! Click to see our [technical report](https://arxiv.org/abs/2506.18841).
 
 **[2024/08/18]** You can now deploy the LongWriter model using [vllm](https://github.com/vllm-project/vllm). Refer to the code in [vllm_inference.py](https://github.com/THUDM/LongWriter/blob/main/vllm_inference.py) and experience lightning-fast generation. It can **generate over 10,000+ words in just one minute**!
 
